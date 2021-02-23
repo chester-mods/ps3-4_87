@@ -8,6 +8,6 @@
 
      PS3 GTAV 🏴‍☠️ scripts
 
-🕵️‍♂️📢 Listado scripts: https://github.com/modded-gun/gtav-best-scripts-2021/releases/tag/listado-script0
+🕵️‍♂️📢 Listado scripts: https://github.com/chester-mods/ps3-4_87/releases/tag/script-list
 
 
