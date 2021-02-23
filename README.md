@@ -1,5 +1,5 @@
 
-     PS3  🏴‍☠️ 4.87 
+    #  PS3  🏴‍☠️ 4.87 
      
 🕵️‍♂️📢 Listado cfw: https://github.com/chester-mods/ps3-4_87/releases/tag/cfw-list4_87
 
